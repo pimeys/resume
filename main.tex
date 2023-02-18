@@ -1,14 +1,14 @@
 
-\documentclass[letterpaper,11pt]{article}
+\documentclass[a4paper,11pt]{article}
 
 % Choose bibliography style for formatting list of publications
 \usepackage[style=ieee,url=false,doi=false,maxbibnames=99,sorting=ydnt,dashed=false]{biblatex}
 \bibliography{papers}
 
 % Choose theme, e.g. black, RedViolet, ForestGreen, MidnightBlue
-\def\theme{MidnightBlue}
+\def\theme{RedViolet}
 
-% More predefined colors can be found in 
+% More predefined colors can be found in
 % https://en.wikibooks.org/wiki/LaTeX/Colors
 
 \usepackage{simplecv}
@@ -18,34 +18,16 @@
 \begin{document}
 
 % Heading
-\headinginline{Doruk Çetin}{
-    Website: \website{dcetin.me} \\ 
-    Email: \email{dcetin@ethz.ch} \\
-    % LinkedIn: \linkedin{doruk-cetin} \\
-    GitHub: \github{dcetin}
-}
-
-% \headingphoto{Doruk Çetin}{
-%     Website: \website{dcetin.me} \\ 
-%     Email: \email{dcetin@ethz.ch} \\
-%     % LinkedIn: \linkedin{doruk-cetin} \\
-%     GitHub: \github{dcetin}
-% }{photo.png}
+\headingphoto{Julius de Bruijn}{
+    Social media: \website{social.nauk.io/pimeys} \\ 
+    Email: \email{julius@nauk.io} \\
+    LinkedIn: \linkedin{julius-de-bruijn-61b787171} \\
+    GitHub: \github{pimeys}
+}{photo.jpg}
 
 % Page One
 \import{sections/}{education.tex}
 \import{sections/}{experience.tex}
-\import{sections/}{publications.tex}
-
-\pagebreak
-
-% Page Two
-\import{sections/}{teaching.tex}
-\sidebyside
-    {\import{sections/}{skills.tex}}
-    {\import{sections/}{languages.tex}}
 \import{sections/}{projects.tex}
-\import{sections/}{awards.tex}
-\import{sections/}{volunteering.tex}
 
 \end{document}
