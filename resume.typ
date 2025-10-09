@@ -25,7 +25,7 @@
 
 = Professional Summary
 
-Product-focused Rust engineer with *8+ years* leading infrastructure projects from conception to production. Recently specialized in developer experience, comprehensive documentation, and market research-driven solutions at Grafbase. Created industry-standard libraries used by *millions of developers* including Tiberius (*3.3M downloads*) and Prisma engines. Led end-to-end development of Grafbase SDK, PostgreSQL connector (competing with Hasura), and Nexus AI router. Known for extensive documentation, customer-centric design, and delivering production-ready solutions that developers love.
+Product-focused Rust engineer with *8+ years* leading infrastructure projects from conception to production. Recently specialized in developer experience, documentation, and market research-driven solutions at Grafbase. Created industry-standard libraries used by *millions of developers* including Tiberius (*3.3M downloads*) and Prisma engines. Led end-to-end development of Grafbase SDK, PostgreSQL connector (competing with Hasura), and Nexus AI router. Known for extensive documentation, customer-centric design, and delivering production-ready solutions that developers love.
 
 = Technical Expertise
 
@@ -51,9 +51,9 @@ Product-focused Rust engineer with *8+ years* leading infrastructure projects fr
 #resume-item[
   - Led *3 major products* from conception to launch: #link("https://github.com/grafbase/nexus")[Nexus AI router], #link("https://docs.rs/grafbase-sdk/latest/grafbase_sdk/")[Grafbase SDK], and #link("https://github.com/grafbase/extensions/tree/main/extensions/postgres")[PostgreSQL connector]
   - Nexus: Researched MCP ecosystem, designed unified API, built tool discovery and routing solution
-  - Grafbase SDK (*v0.19.0*): Customer research revealed need for extensibility, delivered complete SDK with docs
+  - Grafbase SDK: Customer research revealed need for extensibility, delivered complete SDK with docs
   - PostgreSQL connector: Analyzed Hasura's features, designed WASI-based alternative, documented migration path
-  - Wrote comprehensive documentation: API references, architecture guides, *11 extension examples*
+  - Wrote documentation: API references, architecture guides, blog posts
   - Conducted competitor analysis: Hasura, Apollo Router, identified market gaps, positioned products strategically
 ]
 
@@ -114,7 +114,7 @@ Product-focused Rust engineer with *8+ years* leading infrastructure projects fr
   - *Tiberius* (SQL Server Driver): Creator and maintainer, *3.3M downloads*, *500+ stars*, industry standard
   - *A2* (Apple Push): HTTP/2 APNS client with *550K downloads*, powers WalletConnect's notification infrastructure
   - *Recent Product Focus*: #link("https://docs.rs/grafbase-sdk/latest/grafbase_sdk/")[Grafbase SDK] design, #link("https://github.com/grafbase/extensions/tree/main/extensions/postgres")[PostgreSQL connector] competing with Hasura, #link("https://github.com/grafbase/nexus")[Nexus AI router] architecture
-  - *Documentation Excellence*: Comprehensive docs for all projects, API references, migration guides, best practices
+  - *Documentation Excellence*: Docs for all projects, API references, migration guides, best practices
   - *Technical Influence*: Established async Rust patterns, mentored developers, shaped industry standards
 ]
 
