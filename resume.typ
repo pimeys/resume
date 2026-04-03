@@ -1,4 +1,4 @@
-#import "@preview/modern-cv:0.7.0": *
+#import "@preview/modern-cv:0.9.0": *
 
 // Add a space before email to prevent icon overlap
 #show: resume.with(
@@ -14,6 +14,7 @@
       "8+ Years in Internet Infrastructure"
     )
   ),
+  profile-picture: none,
   date: datetime.today().display(),
   language: "en",
   colored-headers: true,
@@ -42,9 +43,21 @@ Product-focused Rust engineer with *8+ years* leading infrastructure projects fr
 #v(0.5em)
 
 #resume-entry(
+  title: "Twin",
+  location: link("https://twin.so")[twin.so] + " • Remote",
+  date: "Feb 2026 – Present",
+  description: "Founding Engineer"
+)
+
+#resume-item[
+  - Focus on AI engineering and agents.
+  - Rust, TypeScript, infra, and product design.
+]
+
+#resume-entry(
   title: "Grafbase",
   location: link("https://grafbase.com")[grafbase.com] + " • Remote",
-  date: "May 2023 – Present",
+  date: "May 2023 – Jan 2026",
   description: "Lead Engineer"
 )
 

@@ -1,5 +1,7 @@
 #!/usr/bin/env bash
 
+set -euo pipefail
+
 # Build script for Typst resumes
 # Usage: ./build-typst.sh
 
