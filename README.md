@@ -11,6 +11,7 @@ Product-focused Rust engineer with 8+ years leading infrastructure projects from
 
 ### 🚀 Recent Work
 
+- **[Twin](https://twin.so/)** - Autonomous AI assistant.
 - **[Nexus AI Router](https://github.com/grafbase/nexus)** - MCP server aggregation and intelligent routing
 - **[Grafbase SDK](https://docs.rs/grafbase-sdk/latest/grafbase_sdk/)** - Extensible GraphQL federation SDK
 - **[PostgreSQL Connector](https://github.com/grafbase/extensions/tree/main/extensions/postgres)** - WASI-based alternative to Hasura
