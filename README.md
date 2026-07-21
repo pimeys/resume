@@ -5,7 +5,7 @@
 
 ## 👋 Senior Product Engineer • Rust
 
-Product-focused Rust engineer with 8+ years leading infrastructure projects from conception to production. Recently specialized in developer experience, comprehensive documentation, and market research-driven solutions.
+Product-focused Rust engineer with 8+ years leading infrastructure projects from conception to production. Recently specialized in LLM GEPA and analysis, agent-first solutions, and core infrastructure.
 
 ### 📄 [View My Resume](https://github.com/pimeys/resume/blob/main/resume.pdf)
 
