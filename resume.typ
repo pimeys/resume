@@ -48,7 +48,7 @@ Product-focused Rust engineer with *8+ years* shipping infrastructure from idea 
 #resume-item[
   - Rust-heavy product engineering for AI agents, with some TypeScript and product design; led AI-agent use in engineering
   - Evaluate language models and providers; cut inference costs through benchmarking and provider selection
-  - Built GEPA, a Genetic Pareto optimizer
+  - Implemented GEPA (Genetic Pareto) to optimize language models for the agents
   - Own Nix-based infrastructure and developer environments
 ]
 
